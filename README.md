@@ -24,3 +24,4 @@ Caso deseje rodar localmente a aplicação:
 ## Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs)](https://skillicons.dev)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
